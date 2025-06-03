@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushi Gupta</h1>
-<h3 align="center">🚀 DevOps & AI Enthusiast | M.Tech in Computer Science | Open to Opportunities</h3>
+<h3 align="center">🚀 DevOps Engineer | M.Tech in Computer Science | Open to Opportunities</h3>
 
 
 # 💫 About Me:
