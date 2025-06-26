@@ -8,11 +8,13 @@
 ## Certificates
 **1. Devops Fundamentals**  
 IBM • December 2024 <br>
-[![🏅 Devops Fundamentals Certificate](https://img.shields.io/badge/Devops%20Fundamentals%20Certificate-%23F4800.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/uc?id=1YG3DbGJJkzq9oDPUqWNRUGxTf-X0aFIS)
+[![🏅 DevOps Fundamentals Certificate](https://img.shields.io/badge/DevOps%20Certificate-28a745?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1YG3DbGJJkzq9oDPUqWNRUGxTf-X0aFIS/view?usp=sharing)
+
 
 **2. Kubernetes** <br>
 IBM • December 2024 <br>
-[![🏅 Kubernetes Certificate](https://img.shields.io/badge/Kubernetes%20Certificate-28a745?style=for-the-badge&logo=kubernetes&logoColor=white)](https://drive.google.com/uc?id=1LVOLJV0EtyksW8jwn4fC7RvvuIjG0ryo)
+[![🏅 Kubernetes Certificate](https://img.shields.io/badge/Kubernetes%20Certificate-28a745?style=for-the-badge&logo=kubernetes&logoColor=white)](https://drive.google.com/file/d/1LVOLJV0EtyksW8jwn4fC7RvvuIjG0ryo/view?usp=sharing)
+
 
 
 ## 🌐 Socials:
