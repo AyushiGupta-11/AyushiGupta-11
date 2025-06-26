@@ -24,7 +24,7 @@
 - 🔄 Implemented **CI/CD pipeline** with Jenkins (Master-Slave), Docker, Maven, Ansible. 
 - 🧩 Automated app build, server config, and deployment using **Ansible**.  
 - 📊 Configured **Prometheus & Grafana** for real-time monitoring.
-- 🔐 Enabled secure automation via **SSH keys & GitHub webhooks**.
+- 🔐 Enabled secure automation via **SSH keys & GitHub webhooks**.<br>
 [![📄 View Project PDF](https://img.shields.io/badge/View_Project_PDF-ff6700?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ayushigupta-11.github.io/FinanceMe/Capstone-Project-Banking-And-Finance_.pdf)
 
 ---
