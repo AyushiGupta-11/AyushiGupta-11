@@ -6,13 +6,13 @@
  **About Me**  <br>- 🎓 I hold a **Master's degree in Computer Science and Engineering** (2023).  <br>- 💻 Transitioned from a teaching career (1.5 years) to **pursue my passion for IT, DevOps**.  <br>- 🌐 Completed the **DevOps Engineer Course from StarAgile (2024)** and **Machine Learning with Python from CETPA (2019)**.  <br>- 🧠 Currently enhancing my skills in **AWS, CI/CD, Docker, Kubernetes, Ansible, Terraform, Jenkins, Prometheus & Grafana**.    <br>- 🔍 Actively looking for **DevOps Engineer**.  <br><br><br>---<br><br>🚀 **Tech Stack & Tools**  <br>- 💻 **Languages:** Python, Java, Bash  <br>- 🔧 **DevOps Tools:** Git, GitHub, Jenkins, Docker, Docker Compose, Kubernetes, Ansible, Terraform  <br>- ☁️ **Cloud:** AWS (EC2, RDS, S3, IAM)  <br>- 📊 **Monitoring:** Prometheus, Grafana  <br>- 🧪 **Testing:** JUnit, TestNG  <br>- 📦 **Build Tools:** Maven  <br>- 💾 **Databases:** MySQL <br><br>---<br><br>📌 **Projects**  <br>- 🏦 **FinanceMe – DevOps Project (Banking & Finance Domain)**  <br>- 🚀 Developed for a global financial services provider based in Germany. <br>- 🛠️ **Tech Stack:** Terraform, Ansible, Jenkins, Docker, GitHub, Prometheus, Grafana. <br>- ☁️ Provisioned **4 AWS EC2 instances** (Jenkins Master, Slave, Monitoring, Production) using **Terraform**. <br>- 🔄 Implemented **CI/CD pipeline** with Jenkins (Master-Slave), Docker, Maven, and Ansible. <br>- 🧩 Automated app build, server configuration, and deployment tasks using **Ansible**. <br>- 📊 Configured **Prometheus & Grafana** for real-time monitoring (CPU, memory). <br>- 🔐Enabled secure automation via **SSH keys** and **GitHub webhooks**. <br><br> [![View Project](https://img.shields.io/badge/View_Project_PDF-Orange?style=for-the-badge)](https://ayushigupta-11.github.io/FinanceMe/Capstone-Project-Banking-And-Finance_.pdf)
 
 ## Certificates
-**Devops Fundamentals**  
+**1. Devops Fundamentals**  
 IBM • December 2024 <br>
-[![🏅 Devops Fundamentals Certificate](https://img.shields.io/badge/View%20My%20Certificate-%23F4800.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/uc?id=1YG3DbGJJkzq9oDPUqWNRUGxTf-X0aFIS)
+[![🏅 Devops Fundamentals Certificate](https://img.shields.io/badge/Devops%20Fundamentals%20Certificate-%23F4800.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/uc?id=1YG3DbGJJkzq9oDPUqWNRUGxTf-X0aFIS)
 
-**Kubernetes**
+**2. Kubernetes** <br>
 IBM • December 2024 <br>
-[![🏅 Kubernetes Certificate](https://img.shields.io/badge/View%20My%20Certificate-28a745?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/uc?id=1LVOLJV0EtyksW8jwn4fC7RvvuIjG0ryo)
+[![🏅 Kubernetes Certificate](https://img.shields.io/badge/Kubernetes%20Certificate-28a745?style=for-the-badge&logo=kubernetes&logoColor=white)](https://drive.google.com/uc?id=1LVOLJV0EtyksW8jwn4fC7RvvuIjG0ryo)
 
 
 ## 🌐 Socials:
